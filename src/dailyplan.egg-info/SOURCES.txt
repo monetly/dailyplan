@@ -1,0 +1,9 @@
+pyproject.toml
+src/dailyplan/cli.py
+src/dailyplan/generator.py
+src/dailyplan.egg-info/PKG-INFO
+src/dailyplan.egg-info/SOURCES.txt
+src/dailyplan.egg-info/dependency_links.txt
+src/dailyplan.egg-info/entry_points.txt
+src/dailyplan.egg-info/requires.txt
+src/dailyplan.egg-info/top_level.txt
